@@ -1,2 +1,2 @@
-# picksmart
+# WIFI Tag
 WiFi Tag demo
